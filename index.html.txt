@@ -1,7 +1,17 @@
- Hello world!
+ <!doctype html>
+Х <html>
 Х <head>
-Х <meta charset="utf-8">
-Х <title>Hello</title>
+Х <title>ћо€ лична€ страничка</title>
 Х </head>
 Х <body>
-</html>
+Х <left><h1> арл ¬еликий</h1></left>
+Х <left><img alt="Ёто €" width="15%" src="preview-4266215-1200x630-99-1556793614.jpg"></left>
+Х <br/>
+Х <h2> онтакты:</h2>
+Х —траничка <a href=https://vk.com/meowfix/>vkontakte</a>
+Х <br/>
+Х <a href=https://github.com/MeowFix>GitHub</a>
+Х <br/>
+Х E-mail: <i>uundead68@gmail.com</i>
+Х </body>
+Х </html>
